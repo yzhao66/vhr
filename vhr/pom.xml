@@ -1,0 +1,22 @@
+xml version=1.0 encoding=UTF-8
+project xmlns=httpmaven.apache.orgPOM4.0.0
+         xmlnsxsi=httpwww.w3.org2001XMLSchema-instance
+         xsischemaLocation=httpmaven.apache.orgPOM4.0.0 httpmaven.apache.orgxsdmaven-4.0.0.xsd
+    modelVersion4.0.0modelVersion
+    parent
+        groupIdorg.springframework.bootgroupId
+        artifactIdspring-boot-starter-parentartifactId
+        version2.4.0version
+        relativePath !-- lookup parent from repository --
+    parent
+    groupIdorg.javaboygroupId
+    artifactIdvhrartifactId
+    packagingpompackaging
+    version1.0-SNAPSHOTversion
+    modules
+        modulevhrservermodule
+        modulemailservermodule
+    modules
+
+
+project
