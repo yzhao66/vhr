@@ -12,5 +12,10 @@
         <maven.compiler.source>8</maven.compiler.source>
         <maven.compiler.target>8</maven.compiler.target>
     </properties>
-
+    <modules>
+        <module>vhr-web</module>
+        <module>vhr-model</module>
+        <module>vhr-service</module>
+        <module>vhr-mail</module>
+    </modules>
 </project>
